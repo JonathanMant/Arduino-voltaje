@@ -1,0 +1,29 @@
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\bin\Debug\Border.exe.config
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\bin\Debug\Border.exe
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\bin\Debug\Border.pdb
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border.csprojResolveAssemblyReference.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\MainWindow.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\App.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border_MarkupCompile.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border_MarkupCompile.lref
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\MainWindow.baml
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border.g.resources
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border.Properties.Resources.resources
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border.csproj.GenerateResource.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border.exe
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Border\obj\Debug\Border.pdb
+C:\Users\jonat\Pictures\voltaje\Controles\Border\bin\Debug\Border.exe.config
+C:\Users\jonat\Pictures\voltaje\Controles\Border\bin\Debug\Border.exe
+C:\Users\jonat\Pictures\voltaje\Controles\Border\bin\Debug\Border.pdb
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\MainWindow.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\App.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\Border_MarkupCompile.cache
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\Border_MarkupCompile.lref
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\MainWindow.baml
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\Border.g.resources
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\Border.Properties.Resources.resources
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\Border.csproj.GenerateResource.cache
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\Border.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\Border.exe
+C:\Users\jonat\Pictures\voltaje\Controles\Border\obj\Debug\Border.pdb

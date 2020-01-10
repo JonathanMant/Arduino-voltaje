@@ -1,0 +1,34 @@
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\bin\Debug\ControlTextBox.exe.config
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\bin\Debug\ControlTextBox.exe
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\bin\Debug\ControlTextBox.pdb
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\MainWindow.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\App.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox_MarkupCompile.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox_MarkupCompile.lref
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\MainWindow.baml
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox.g.resources
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox.Properties.Resources.resources
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox.csproj.GenerateResource.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox.exe
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox.pdb
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\ControlTextBox.csprojResolveAssemblyReference.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\Window1.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlTextBox\obj\Debug\Window1.baml
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\bin\Debug\ControlTextBox.exe.config
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\bin\Debug\ControlTextBox.exe
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\bin\Debug\ControlTextBox.pdb
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox.csprojAssemblyReference.cache
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\MainWindow.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\Window1.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\App.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox_MarkupCompile.cache
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox_MarkupCompile.lref
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\MainWindow.baml
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\Window1.baml
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox.g.resources
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox.Properties.Resources.resources
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox.csproj.GenerateResource.cache
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox.exe
+C:\Users\jonat\Pictures\voltaje\Controles\ControlTextBox\obj\Debug\ControlTextBox.pdb

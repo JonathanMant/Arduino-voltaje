@@ -1,0 +1,34 @@
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\bin\Debug\Controles.exe.config
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\bin\Debug\Controles.exe
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\bin\Debug\Controles.pdb
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\MainWindow.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\App.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles_MarkupCompile.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles_MarkupCompile.lref
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\MainWindow.baml
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles.g.resources
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles.exe
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\Controles.pdb
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\ControLabel.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\Controles\obj\Debug\ControLabel.baml
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\bin\Debug\Controles.exe.config
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\bin\Debug\Controles.exe
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\bin\Debug\Controles.pdb
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\MainWindow.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\ControLabel.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\App.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles_MarkupCompile.cache
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles_MarkupCompile.lref
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\MainWindow.baml
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\ControLabel.baml
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles.g.resources
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles.exe
+C:\Users\jonat\Pictures\voltaje\Controles\Controles\obj\Debug\Controles.pdb

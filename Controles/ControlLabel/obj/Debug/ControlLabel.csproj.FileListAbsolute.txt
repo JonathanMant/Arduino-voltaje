@@ -1,0 +1,30 @@
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\bin\Debug\ControlLabel.exe.config
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\bin\Debug\ControlLabel.exe
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\bin\Debug\ControlLabel.pdb
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel.csprojResolveAssemblyReference.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\MainWindow.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\App.g.cs
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel_MarkupCompile.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel_MarkupCompile.lref
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\MainWindow.baml
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel.g.resources
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel.Properties.Resources.resources
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel.csproj.GenerateResource.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel.exe
+C:\Users\Melisa\Desktop\programacion avanzada\tercer corte\controles WPF\Controles\ControlLabel\obj\Debug\ControlLabel.pdb
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\bin\Debug\ControlLabel.exe.config
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\bin\Debug\ControlLabel.exe
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\bin\Debug\ControlLabel.pdb
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel.csprojAssemblyReference.cache
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\MainWindow.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\App.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel_MarkupCompile.cache
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel_MarkupCompile.lref
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\MainWindow.baml
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel.g.resources
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel.Properties.Resources.resources
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel.csproj.GenerateResource.cache
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel.exe
+C:\Users\jonat\Pictures\voltaje\Controles\ControlLabel\obj\Debug\ControlLabel.pdb

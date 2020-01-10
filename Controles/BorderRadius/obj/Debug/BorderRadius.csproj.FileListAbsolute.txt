@@ -1,0 +1,14 @@
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\bin\Debug\BorderRadius.exe.config
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\bin\Debug\BorderRadius.exe
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\bin\Debug\BorderRadius.pdb
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\MainWindow.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\App.g.cs
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\BorderRadius_MarkupCompile.cache
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\BorderRadius_MarkupCompile.lref
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\MainWindow.baml
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\BorderRadius.g.resources
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\BorderRadius.Properties.Resources.resources
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\BorderRadius.csproj.GenerateResource.cache
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\BorderRadius.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\BorderRadius.exe
+C:\Users\jonat\Pictures\voltaje\Controles\BorderRadius\obj\Debug\BorderRadius.pdb
